@@ -1,0 +1,1 @@
+An quick look at GGT ridership from 2019-2020 in an effort to observe the drastic reduction in ridership due to COVID19: [GGT Ridership](https://www.goldengate.org/bus/history-research/statistics-ridership/).
